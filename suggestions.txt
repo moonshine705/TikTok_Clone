@@ -1,0 +1,1 @@
+i couldn't really add any code right now but a suggestion would be to make a react project and build the backend and frontend in it. 
